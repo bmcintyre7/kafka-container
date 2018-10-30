@@ -1,4 +1,4 @@
 kafka-docker
 ============
 
-Dockerfile for [Apache Kafka](http://kafka.apache.org/)
+Includes a docker-compose.yaml to startup zookeeper and kafka.
